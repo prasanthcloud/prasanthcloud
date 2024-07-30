@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prasanth!</h1>
 <h3 align="center">I'm a Cloud Engineer</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 📚 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [http://prasanth.fun/](http://prasanth.fun/)
+- 🚀 All of my projects are available at [http://prasanth.fun/](http://prasanth.fun/)
 
 - 💬 Ask me about **AWS, Python**
 
-- 📫 How to reach me **prasanthelectronics01@gmail.com**
+- ✉ How to reach me **prasanthelectronics01@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SjGqeyVS6ANtUha6fG-nP2px4DGXigtF/view?usp=drive_link](https://drive.google.com/file/d/1SjGqeyVS6ANtUha6fG-nP2px4DGXigtF/view?usp=drive_link)
 
