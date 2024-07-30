@@ -1,5 +1,5 @@
 <p style="text-align:center;"> 
-<img src="![image](https://github.com/user-attachments/assets/8c0ee4f7-cae3-4aa3-8414-a39270836be1)" alt="LambdaTest">
+<img src="![image](https://github.com/user-attachments/assets/8c0ee4f7-cae3-4aa3-8414-a39270836be1)">
 </p>
 
 
