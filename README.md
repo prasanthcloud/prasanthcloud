@@ -1,4 +1,5 @@
-  ![image](https://github.com/user-attachments/assets/29f01c76-342a-4fbe-89fc-2e548594058e)
+![image](https://github.com/user-attachments/assets/8c0ee4f7-cae3-4aa3-8414-a39270836be1)
+
 
 <h1 align="center">Hi 👋, I'm Prasanth!</h1>
 <h3 align="center">I'm a Cloud Engineer</h3>
