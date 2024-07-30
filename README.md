@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Prasanth!</h1>
+<h1 align="center">Hi 👋 I'm Prasanth!</h1>
 <h3 align="center">I'm a Cloud Engineer</h3>
 
 - 📚 I’m currently learning **DevOps**
