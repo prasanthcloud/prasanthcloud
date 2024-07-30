@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [http://prasanth.fun/](http://prasanth.fun/)
+- 👨‍💻 Portfolio: [http://prasanth.fun/](http://prasanth.fun/)
 
 - 💬 Ask me about **AWS, Python**
 
