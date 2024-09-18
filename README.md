@@ -10,7 +10,7 @@
 
 - 🚀 All of my projects are available at [http://prasanth.fun/](http://prasanth.fun/)
 
-- 💬 Ask me about **AWS, Python**
+- 💬 Ask me about **AWS, Jenkins, Docker, Ansible, Terraform, Git and GitHub, Python **
 
 - ✉ How to reach me **prasanthelectronics01@gmail.com**
 
